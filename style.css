@@ -1,0 +1,33 @@
+.block {
+    padding: 10px;
+    margin: 5px;
+    border-style: solid;
+    height: 100px;
+    font: 2em;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+#one {
+    background-color: #FFC300;
+    color: #581845; 
+}
+
+#two {
+    background-color: #5497FD;
+    color: #FD5482;    
+}
+
+#three {
+    background-color: #09870B;  
+    color: #07E6F9;
+}
+
+#four {
+    background-color: #D54083;  
+    color:#33D9B1;  
+}
+
+#five {
+    background-color: #3342D9;
+    color: #FF7C00;
+}
